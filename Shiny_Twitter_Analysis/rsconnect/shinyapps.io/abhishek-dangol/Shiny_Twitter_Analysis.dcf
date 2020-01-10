@@ -1,0 +1,12 @@
+name: Shiny_Twitter_Analysis
+title: Shiny_Twitter_Analysis
+username:
+account: abhishek-dangol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1644628
+bundleId: 2719882
+url: https://abhishek-dangol.shinyapps.io/Shiny_Twitter_Analysis/
+when: 1578675415.15872
+asMultiple: FALSE
+asStatic: FALSE
