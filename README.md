@@ -4,7 +4,7 @@ A web application that displays sentiment analysis based on tweets of a particul
 ## Here is the link to the live application
 https://abhishek-dangol.shinyapps.io/Shiny_Twitter_Analysis/
 
-Enter any twitter hashtag, word or phrase in the search bar. The app will display a sentiment graph based on the NRC sentiment analysis.
+Enter any twitter hashtag, word or phrase in the search bar. The app will display a sentiment graph based on the a("NRC", href="http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm" sentiment analysis.
 
 
 ## ERRORS:
