@@ -93,10 +93,10 @@ rownames(temp_senti_total) <- NULL
 
 
 # set variables for twitter API call authorization
-consumer_key = "Ya5KwoMtImAEaA4uLlSKyj1ah"
-consumer_secret = "F5BF5VwtASRaVXkxNXClRRK9tPePXrzlTI1S4oEvZJ3DgKqMl4"
-access_token = "1111466857335275520-LDlK0sVJHtv0EUPGcuffEYHENAupGN"
-access_secret = "irKRUVOD0wdJwtygStcsbktNW4Nr8mfGFnedeYyNpuLk7"
+consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+access_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 options(httr_oauth_cahe = T)
 
 # This will enable the use of a local file to cache OAuth 
